@@ -1,0 +1,7 @@
+{
+  "anti-page_url": {
+    "prefix": "anti-page_url",
+    "body": ["import {} from '../components/page_url';", ""],
+    "description": ""
+  }
+}
